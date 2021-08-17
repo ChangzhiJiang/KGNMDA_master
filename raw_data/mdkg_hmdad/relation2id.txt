@@ -1,0 +1,40 @@
+39
+VMH::metabolite-disease::Decreased::metabolite::disease	0
+GNBR::Ud::Gene:Disease	1
+GNBR::L::Gene:Disease	2
+GNBR::Pa::Compound:Disease	3
+VMH::metabolite-disease::Increased::metabolite::disease	4
+Hetionet::DrD::Disease:Disease	5
+GNBR::J::Gene:Disease	6
+MIND::microbe-microbe::metabolic competition index::microbe::microbe	7
+GNBR::Y::Gene:Disease	8
+Hetionet::DuG::Disease:Gene	9
+Hetionet::DdG::Disease:Gene	10
+GNBR::Md::Gene:Disease	11
+GNBR::Te::Gene:Disease	12
+HMDB::microbe-metabolite::microbe::metabolite	13
+GNBR::Mp::Compound:Disease	14
+GNBR::J::Compound:Disease	15
+GNBR::D::Gene:Disease	16
+HMDB::metabolite-disease::metabolite::disease	17
+MIND::microbe-microbe::metabolic influence::microbe::microbe	18
+GNBR::T::Compound:Disease	19
+GNBR::G::Gene:Disease	20
+Hetionet::CpD::Compound:Disease	21
+Hetionet::DlA::Disease:Anatomy	22
+DRUGBANK::treats::Compound:Disease	23
+MIND::microbe-microbe::correlation::microbe::microbe	24
+MIND::microbe-microbe::metabolic complementarity index::microbe::microbe	25
+GNBR::X::Gene:Disease	26
+TAXONOMY::microbe-division::microbe::division	27
+GNBR::Pr::Compound:Disease	28
+MIND::microbe-microbe::binding::microbe::microbe	29
+GNBR::U::Gene:Disease	30
+Hetionet::DpS::Disease:Symptom	31
+GNBR::Sa::Compound:Disease	32
+Hetionet::CtD::Compound:Disease	33
+MIND::microbe-microbe::transduction::microbe::microbe	34
+VMH::microbe-metabolite::microbe::metabolite	35
+VMH::disease-organ::disease::organ	36
+GNBR::C::Compound:Disease	37
+Hetionet::DaG::Disease:Gene	38
